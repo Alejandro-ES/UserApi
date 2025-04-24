@@ -42,7 +42,6 @@ Este proyecto es una API RESTful desarrollada con **Spring Boot** que permite re
 1. **Clonar el repositorio**
 ```bash
 git clone https://github.com/Alejandro-ES/UserApi.git
-cd user.api
 ```
 
 2. **Configurar variables necesarias**
@@ -127,6 +126,7 @@ Alejandro Ezequiel Nuñez
 
 ---
 
-## 📝 Licencia
+## 📝 Diseño
 
-MIT
+El diseño se encuentra en el archivo diagrama.excalidraw la 
+cual se abre con la pagina web [Excalidraw](https://excalidraw.com)
