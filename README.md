@@ -128,5 +128,4 @@ Alejandro Ezequiel Nuñez
 
 ## 📝 Diseño
 
-El diseño se encuentra en el archivo diagrama.excalidraw la 
-cual se abre con la pagina web [Excalidraw](https://excalidraw.com)
+El diseño se encuentra en el archivo diseño.png
